@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alakhsharma22
-- 👀 I’m interested in AI/ML/DL projects and their applications
+- 👀 I’m interested in AI/ML/DL , Cybersecurity and Quant Fields
 - 💞️ I’m looking to collaborate on AI/ML/DL projects and their applications
 
 <!---
