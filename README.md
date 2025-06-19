@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @alakhsharma22
-- 👀 I’m interested in AI/ML/DL , Cybersecurity and Quant Fields
-- 💞️ I’m looking to collaborate on AI/ML/DL, cybersecurity and quant projects
+I have experience in creating ML, Deep Learning, and Reinforcement Learning models for various problems. 
+
+I also have experience and interest in deriving and designing novel loss functions grounded in reinforcement learning and reasoning, specifically for fine-tuning large language models (LLMs). 
+
+Additionally, I have a strong interest in competitive programming.
 
 <!---
 alakhsharma22/alakhsharma22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
